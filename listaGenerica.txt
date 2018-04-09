@@ -1,0 +1,40 @@
+lista de funções:
+
+math:
+-primo
+-fatorial
+-fibonacci
+-modulo
+-potencia
+-raiz
+-somatória
+-maior/menor(a,b)
+-sen/cos/tg(radianos ou graus)
+-log(a na base b)
+
+vetores:
+-método que pede valores de um vetor e retorna o vetor
+-inverte array e retorna o array
+-quick sorting e retorna o array
+-soma/subtração/multiplicação/divisão de array[10000] com array[10000] 
+-conversão de valor numerico string para integer
+-verifica se certo string esta dentro de outro string
+-remove certa string dentro de outra string
+-número de ocorrências de uma certa string dentro de outra
+-concatena strings dada um índice
+-retorna o índice de um caracter dentro da string
+-retorna o maior valor
+-retorna o menor valor
+-verifica se certo valor está dentro da árvore binária
+-transformar a array como árvore binária
+-troca um valor por outro valor
+-substring, retorna a substring de um index até outro
+-dividir a array na metade e retornar
+
+matriz:
+-método que pede valores de uma matriz(i,j) e retorna a matriz
+-gerador de matriz identidate(i,j)
+-gerador de matriz inversa
+-gerador de matriz transposta
+-multiplicação/divisão de matrizes
+-soma/subtração de matrizes
